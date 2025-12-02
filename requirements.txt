@@ -22,7 +22,10 @@ streamlit
 
 fastapi
 uvicorn
-python-multipart
-pillow
 httpx
+sniffio
+pillow
+numpy
+python-multipart
 groq
+
